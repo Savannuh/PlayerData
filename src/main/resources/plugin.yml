@@ -1,0 +1,5 @@
+name: PlayerData
+version: ${project.version}
+main: me.savannuh.playerdata.Main
+authors: [Mathijs]
+description: Plugin to store player data

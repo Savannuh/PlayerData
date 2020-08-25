@@ -1,0 +1,5 @@
+name: PlayerData
+version: 1.0-SNAPSHOT
+main: me.savannuh.playerdata.Main
+authors: [Mathijs]
+description: Plugin to store player data
